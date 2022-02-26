@@ -1,0 +1,11 @@
+p{
+    color: blue;
+}
+p,h2{
+    display: inline;
+}
+span{
+	background-color: yellow;	
+    font-weight: bold;
+}
+
